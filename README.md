@@ -23,7 +23,7 @@ No manual work required.
 ---
 ## 🔄 Workflow
 
-![Workflow](workflow.png)
+![Workflow](workflow.jpeg)
 
 # 🏗️ Workflow
 
