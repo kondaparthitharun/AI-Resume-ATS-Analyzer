@@ -18,11 +18,12 @@ Whenever a new resume is uploaded to Google Drive, the workflow automatically:
 - 📝 Creates a formatted report in Google Docs
 
 No manual work required.
+
+
+---
 ## 🔄 Workflow
 
 ![Workflow](workflow.png)
-
----
 
 # 🏗️ Workflow
 
